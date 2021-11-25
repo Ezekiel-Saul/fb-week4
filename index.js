@@ -26,7 +26,7 @@ app.options('*', cors());
 
 app.get('/result4/', (req, res) => {
     res.json({
-        message: 'pyaephyoaung',
+        message: 'itmo247526',
         'x-body': req.body,
         'x-result': req.header('x-test')
     });
@@ -34,7 +34,7 @@ app.get('/result4/', (req, res) => {
 
 app.post('/result4/', (req, res) => {
     res.json({
-        message: 'pyaephyoaung',
+        message: 'itmo247526',
         'x-body': req.body,
         'x-result': req.header('x-test')
     });
