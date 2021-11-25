@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LetonGerman/fb-week4.git"
+    "url": "git+https://github.com/Ezekiel-Saul/fb-week4.git"
   },
   "author": "neveraskedfor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LetonGerman/fb-week4/issues"
+    "url": "https://github.com/Ezekiel-Saul/fb-week4/issues"
   },
-  "homepage": "https://github.com/LetonGerman/fb-week4#readme",
+  "homepage": "https://github.com/Ezekiel-Saul/fb-week4#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
